@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Qi-Wang-264"
     - label: "ORCID"
-      icon: "ai ai-fw ai-orcid-square"
+      icon: "fas fa-fw fa-archive"
       url: "https://orcid.org/0000-0002-3763-4977"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
