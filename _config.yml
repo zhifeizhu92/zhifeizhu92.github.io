@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Qi-Wang-264"
     - label: "ORCID"
-      icon: "fas fa-fw fa-archive"
+      icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-3763-4977"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
@@ -128,11 +128,10 @@ author:
 
 # Site Footer
 footer:
-  name: "sdfdsfdsfdsfdsfsf"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://orcid.org/0000-0002-3763-4977"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
