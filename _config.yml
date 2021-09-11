@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi WANG9"
+title                    : "Qi WANG10"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qi Wang"
@@ -114,13 +114,13 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:q.wang@ist.osaka-u.ac.jp"    
     - label: "arXiv"
-      icon: "fas fa-fw fa-arxiv"
+      icon: "fas fa-fw fa-archive"
       url: "https://arxiv.org/a/wang_q_11.html"
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Qi-Wang-264"
     - label: "ORCID"
-      icon: "ai ai-orcid ai-fw"
+      icon: "ai ai-orcid-square ai-fw"
       url: "https://orcid.org/0000-0002-3763-4977"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
@@ -215,7 +215,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
