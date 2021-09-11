@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi WANG10"
+title                    : "Qi WANG11"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qi Wang"
@@ -128,6 +128,7 @@ author:
 
 # Site Footer
 footer:
+  name: "sdfdsfdsfdsfdsfsf"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
