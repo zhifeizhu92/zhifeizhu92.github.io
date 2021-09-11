@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi WANG12"
+title                    : "Qi WANG13"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qi Wang"
@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/wang.jpeg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
   bio              : "I am a doctoral student at Osaka University."
   location         : "Osaka, Japan"
-  email            :
+  #email            :
   links:
     - label: "JSPS Fellow (DC2)"
       icon: "fa fa-fw fa-university"
