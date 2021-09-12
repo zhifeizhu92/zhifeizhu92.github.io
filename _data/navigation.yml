@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "CV"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /CV/
   - title: "Research"
-    url: https://www.mail.osaka-u.ac.jp/webmail/?_task=mail&_mbox=INBOX
+    url: /Research/
   - title: "Activities"
-    url: /year-archive/
+    url: /Activities/
   - title: "Others"
-    url: /Blogs/
+    url: /Others/
   # - title: "Sitemap"
   #   url: /sitemap/
