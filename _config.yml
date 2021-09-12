@@ -113,7 +113,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:q.wang@ist.osaka-u.ac.jp"    
-    - label: "arXiv"
+    - label: "ArXiv"
       icon: "fas fa-fw fa-archive"
       url: "https://arxiv.org/a/wang_q_11.html"
     - label: "Researchgate"
