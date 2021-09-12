@@ -6,7 +6,7 @@ main:
     url: https://www.mail.osaka-u.ac.jp/webmail/?_task=mail&_mbox=INBOX
   - title: "Activities"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "Others"
     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
