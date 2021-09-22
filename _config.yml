@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi WANG18"
+title                    : "Qi WANG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Qi Wang"
@@ -107,9 +107,9 @@ author:
   location         : "Osaka, Japan"
   #email            :
   links:
-    - label: "JSPS Fellow (DC2)"
+    - label: "Osaka University"
       icon: "fa fa-fw fa-university"
-      url: "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20J10492/"
+      url: "https://www.osaka-u.ac.jp/en"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:q.wang@ist.osaka-u.ac.jp"    
