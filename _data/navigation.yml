@@ -6,6 +6,8 @@ main:
     url: /Research/
   - title: "Activities"
     url: /Activities/
+  - title: "Notes"
+    url: /Notes/
   - title: "Others"
     url: /Others/
   #- title: "Sitemap"
