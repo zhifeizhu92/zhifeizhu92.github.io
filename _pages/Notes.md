@@ -1,0 +1,13 @@
+---
+title:  "Notes"
+layout: single
+classes: wide
+permalink: /Notes/
+author_profile: true
+comments: true
+---
+
+I was born in 1992.
+
+
+
