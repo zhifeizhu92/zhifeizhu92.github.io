@@ -103,16 +103,16 @@ analytics:
 author:
   name             : "Qi Wang"
   avatar           : "/assets/wang.jpeg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
-  bio              : "I am a doctoral student at Osaka University."
-  location         : "Osaka, Japan"
+  bio              : "I am a postdoc at YMSC."
+  location         : "Beijing, China"
   #email            :
   links:
-    - label: "Osaka University"
+    - label: "Tsinghua University"
       icon: "fa fa-fw fa-university"
-      url: "https://www.osaka-u.ac.jp/en"
+      url: "https://www.tsinghua.edu.cn/en/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:q.wang@ist.osaka-u.ac.jp"    
+      url: "mailto:infinite-wang@tsinghua.edu.cn"    
     - label: "ArXiv"
       icon: "fas fa-fw fa-archive"
       url: "https://arxiv.org/a/wang_q_11.html"
