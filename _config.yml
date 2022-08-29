@@ -122,9 +122,9 @@ author:
     #- label: "ORCID"
       #icon: "fas fa-fw fa-link"
       #url: "https://orcid.org/"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-500px"
-       #url: "500px.com/zfzhu"
+    - label: "500px"
+      icon: "fab fa-fw fa-500px"
+       url: "500px.com/zfzhu"
 
 # Site Footer
 #footer:
