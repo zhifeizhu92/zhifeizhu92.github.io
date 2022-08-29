@@ -4,10 +4,8 @@ main:
     url: /CV/
   - title: "Research"
     url: /Research/
-  - title: "Activities"
-    url: /Activities/
-  - title: "Notes"
-    url: /Notes/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Others"
     url: /Others/
   #- title: "Sitemap"
