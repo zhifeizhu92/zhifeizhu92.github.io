@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Zhifei Zhu"
   avatar           :  "/assets/profilepic.jpg" # path of avatar image, e.g. "/assets/WechatIMG6.jpeg"
-  bio              : "Postdoc at the Yau Mathematical Science Center, Tsinghua University."
+  bio              : "Postdoc at Yau Mathematical Science Center, Tsinghua University."
   location         : "Beijing, China"
   #email            :
   links:
